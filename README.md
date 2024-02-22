@@ -3,6 +3,7 @@
 競馬における勝ち馬予想を行うAIの作成と、AIによる予想を出力するプログラムです。
 
 netkeiba様の提供する各レース情報をもとにAIの学習、勝ち馬の予想を行っております。
+
 ▼URLはこちら▼
 https://race.netkeiba.com/top/?rf=navi
 
