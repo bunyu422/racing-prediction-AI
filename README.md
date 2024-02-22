@@ -5,6 +5,7 @@
 netkeiba様の提供する各レース情報をもとにAIの学習、勝ち馬の予想を行っております。
 
 ▼URLはこちら▼
+
 https://race.netkeiba.com/top/?rf=navi
 
 予想を出力させる際はrace_idを入力するだけなので、容易に使用できます。
