@@ -35,7 +35,28 @@ https://race.netkeiba.com/top/?rf=navi
 
 あることの証明になると思い、開発を始めました。
 
+# 機能紹介
+![function1](https://github.com/bunyu422/racing-prediction-AI/assets/154484676/de43220d-d2e8-4427-8663-752bff259584)
+
+![function2](https://github.com/bunyu422/racing-prediction-AI/assets/154484676/26be0b5a-577d-4423-a653-a1d6a7e0cf4c)
+
+![function3](https://github.com/bunyu422/racing-prediction-AI/assets/154484676/788e3996-ec18-41eb-8418-8dc7e8122ad1)
+
+
 # 使用技術
 * Python 3.10.9
 
 # 使用した主なライブラリ一覧
+| Library           | Version                                              |
+| ----------------- | --------------------------------------------------   |
+| beautifulSoup     | 4.12.2                                               |
+| lightgbm          | 4.0.0                                                |
+| matplotlib        | 3.7.2                                                |
+| numpy             | 1.25.2                                               |
+| optuna            | 3.3.0                                                |
+| pandas            | 1.4.2                                                |
+| requests          | 2.31.0                                               |
+| scikit-learn      | 1.3.0                                                |
+
+
+
